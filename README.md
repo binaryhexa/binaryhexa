@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight)](https://github.com/binaryhexa/github-readme-stats_theme=tokyonight)
 
 <!--
