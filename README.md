@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner)](https://github.com/binaryhexa/github-readme-stats_theme=tokyonight)
 
+[![binaryhexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryhexa)](https://github.com/binaryhexa/github-readme-stats)
+
 <!--
 **binaryhexa/binaryhexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
