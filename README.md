@@ -1,6 +1,10 @@
 <!-- ### Hi there 👋 -->
 ![](https://komarev.com/ghpvc/?username=binaryhexa&color=blueviolet)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryhexa&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binaryhexa&theme=synthwave)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner)](https://github.com/binaryhexa/github-readme-stats_theme=tokyonight)
 
 ## Focusing to Code With
