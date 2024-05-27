@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=binaryhexa&color=blueviolet)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave)
