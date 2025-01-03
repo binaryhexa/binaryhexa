@@ -6,17 +6,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave" alt="Profile Details" />
 </p>
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryhexa&theme=synthwave" alt="Repositories Per Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binaryhexa&theme=synthwave" alt="Most Commit Language" />
-</p>
-  </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner" alt="Top Langs" />
-</p>
-
+  </p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner" alt="Top Langs" />
