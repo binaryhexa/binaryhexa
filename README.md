@@ -1,21 +1,22 @@
 ### Hi there 👋
-### Hi there 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binaryhexa&color=blueviolet" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=binaryhexa&color=blueviolet" alt="Profile Views" />
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryhexa&theme=synthwave" alt="Repositories Per Language" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryhexa&theme=synthwave" alt="Repositories Per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binaryhexa&theme=synthwave" alt="Most Commit Language" />
+  </div>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binaryhexa&theme=synthwave" alt="Most Commit Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner" alt="Top Langs" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner" alt="Top Langs" />
