@@ -5,7 +5,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryhexa&theme=synthwave)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binaryhexa&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner)](https://github.com/binaryhexa/github-readme-stats_theme=tokyonight)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryhexa&layout=compact&theme=tokyonight&langs_count=8&show_owner)](https://github.com/binaryhexa/github-readme-stats_theme=tokyonight)
+</div>
 
 ## Focusing to Code With
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
