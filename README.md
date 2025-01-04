@@ -18,7 +18,7 @@
 </p>
 
 
-## Focusing to Code With
+## Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript" />
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript" />
@@ -33,7 +33,7 @@
 
 
 
- [![binaryhexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryhexa)](https://github.com/binaryhexa/github-readme-stats)
+<!-- [![binaryhexa's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryhexa)](https://github.com/binaryhexa/github-readme-stats) -->
 
 <!--
 **binaryhexa/binaryhexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
