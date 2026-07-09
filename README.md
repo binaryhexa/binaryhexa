@@ -6,7 +6,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave" alt="Profile Details" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=binaryhexa&theme=synthwave)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=binaryhexa&theme=synthwave" alt="GitHub Streak" /></a>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <p align="center">
