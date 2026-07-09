@@ -6,6 +6,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave" alt="Profile Details" />
 </p>
 
+![binaryhexa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=binaryhexa&theme=radical&hide_border=false)<br/>
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binaryhexa&theme=synthwave" alt="Repositories Per Language" />
