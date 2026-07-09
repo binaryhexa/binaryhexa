@@ -6,7 +6,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binaryhexa&theme=synthwave" alt="Profile Details" />
 </p>
 
-![binaryhexa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=binaryhexa&theme=radical&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=binaryhexa&theme=synthwave)](https://git.io/streak-stats)
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <p align="center">
